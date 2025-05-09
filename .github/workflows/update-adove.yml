@@ -1,0 +1,38 @@
+name: get-adove-lists
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every day
+  workflow_dispatch:
+
+jobs:
+  adove-updater:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout!
+        uses: actions/checkout@v4
+
+      - name: Stole some work lmao
+        run: curl -o ./adove.yaml https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/refs/heads/main/clash.yaml
+
+      - name: Cache the file!
+        id: cache-adove
+        uses: actions/cache@v4
+        env:
+          cache-name: cache-node-modules
+        with:
+          # npm cache files are stored in `~/.npm` on Linux/macOS
+          path: ./adove.new.yaml
+          key: adove-${{ hashFiles('**/adove.new.yaml') }}
+      
+      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        name: Update and output!
+        continue-on-error: true
+        run: |
+          rm ./adove1.yaml
+          sed -i -e '1i\payload:' -e '/^#/d' -e 's/0\.0\.0\.0 //g' -e 's/^/ - \"/' -e 's/$/\"/' adove.new.yaml
+          mv ./adove.new.yaml ./adove1.yaml
+          git config --global user.name 'Alyx Vance'
+          git config --global user.email 'alyx404@users.noreply.github.com'
+          git commit -am "Automated update."
+          git push
