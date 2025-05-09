@@ -1,4 +1,4 @@
-name: get-adove-lists
+name: Get & Update a-dove List
 
 on:
   schedule:
