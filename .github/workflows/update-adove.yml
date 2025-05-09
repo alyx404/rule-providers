@@ -34,5 +34,6 @@ jobs:
           mv ./adove.new.yaml ./adove.yaml
           git config --global user.name 'Alyx Vance'
           git config --global user.email 'alyx404@users.noreply.github.com'
+          git add adove.yaml
           git commit -am "Automated update."
           git push
