@@ -1,4 +1,6 @@
 payload:
+ - '+.apple-relay.cloudflare.com'
+ - '+.apple-relay.apple.com'
  - '+.telegram.space'
  - '+.cdn-telegram.org'
  - '+.telegram.org'
