@@ -1,5 +1,4 @@
 payload:
-  - 'apple.com'
   - 'ruleset.skk.moe'
   - 'hub.gitmirror.com'
   - 'ibuki.cgnat.net'
@@ -78,9 +77,6 @@ payload:
   - '+.amap.com'
   - '+.amd.com'
   - '+.animebytes.tv'
-  - '+.apple-cloudkit.com'
-  - '+.apple.co'
-  - '+.appstore.com'
   - '+.autonavi.com'
   - '+.awesome-hd.me'
   - '+.b612.net'
@@ -107,7 +103,6 @@ payload:
   - '+.ccgslb.net'
   - '+.cctv.com'
   - '+.cctvpic.com'
-  - '+.cdn-apple.com'
   - '+.chaoxing.com'
   - '+.chdbits.co'
   - '+.chinanetcenter.com'
