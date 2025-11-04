@@ -2,6 +2,7 @@ payload:
   - '+.apple-relay.cloudflare.com'
   - '+.apple-relay.apple.com'
   - '+.apple-relay.fastly-edge.com'
+  - '+.guzzoni.apple.com'
   - '+.generativeai.google'
   - '+.notebooklm.google'
   - '+.deepmind.google'
