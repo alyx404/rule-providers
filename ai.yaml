@@ -18,6 +18,7 @@ payload:
   - '+.anthropic.com'
   - '+.deepmind.com'
   - '+.chatgpt.com'
+  - '+.openai.com'
   - '+.notebooklm.google.com'
   - '+.makersuite.google.com'
   - 'alkalicore-pa.clients6.google.com'
