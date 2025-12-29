@@ -1,4 +1,9 @@
 payload:
+  - 'cable.ua5v.com'
+  - 'cable.auth.com'
+  - 'app-site-association.cdn-apple.com'
+  - 'app-site-association.networking.apple'
+  - 'ghfast.top'
   - 'ruleset.skk.moe'
   - 'hub.gitmirror.com'
   - 'ibuki.cgnat.net'
