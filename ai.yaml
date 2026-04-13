@@ -3,6 +3,7 @@ payload:
   - '+.apple-relay.apple.com'
   - '+.apple-relay.fastly-edge.com'
   - '+.guzzoni.apple.com'
+  - '+.apple-relay.mask.apple-dns.net'
   - '+.generativeai.google'
   - '+.notebooklm.google'
   - '+.deepmind.google'
