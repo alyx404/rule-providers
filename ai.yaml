@@ -4,6 +4,7 @@ payload:
   - '+.apple-relay.fastly-edge.com'
   - '+.guzzoni.apple.com'
   - '+.apple-relay.mask.apple-dns.net'
+  - 'seed.siri.apple.com'
   - '+.generativeai.google'
   - '+.notebooklm.google'
   - '+.deepmind.google'
