@@ -1,4 +1,5 @@
 payload:
+  - '+.cdn.ubi.com'
   - '+.akaudon.com'
   - 'cable.ua5v.com'
   - 'cable.auth.com'
