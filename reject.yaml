@@ -653,7 +653,7 @@ payload:
  - '+.aa0.pub.funshion.com'
  - '+.aa1.pub.funshion.com'
  - '+.aafanke.cc'
- - '+.aam.adsremote.scrippsnetworks.com
+ - '+.aam.adsremote.scrippsnetworks.com'
  - '+.ab.dydab.com'
  - '+.ab.hysdknb.com'
  - '+.ab.meishiba.com.cn'
@@ -1298,7 +1298,7 @@ payload:
  - '+.aim.yoyi.com.cn'
  - '+.air.yoyi.com.cn'
  - '+.airpush.com'
- - '+.airpushmarketing.s3.amazonaws.com
+ - '+.airpushmarketing.s3.amazonaws.com'
  - '+.ais.abacast.com'
  - '+.aishang.bid'
  - '+.aishiguolong.com'
@@ -1807,7 +1807,7 @@ payload:
  - '+.bds.soarfi.cn'
  - '+.bdtongfei.cn'
  - '+.bduserlog.eastmoney.com'
- - '+.beacon-us-sjc1.rubiconproject.com
+ - '+.beacon-us-sjc1.rubiconproject.com'
  - '+.beacon.gtimg.com'
  - '+.beacon.krxd.net'
  - '+.beacon.qq.com'
@@ -1852,7 +1852,7 @@ payload:
  - '+.bigbos.top'
  - '+.bigboy.eurogamer.net'
  - '+.billionfocus.com'
- - '+.binaryage-leechgate.herokuapp.com
+ - '+.binaryage-leechgate.herokuapp.com'
  - '+.bingdianhuanyuan.cn'
  - '+.bingdianhuanyuan.cn'
  - '+.bingyinq.com'
@@ -2398,7 +2398,7 @@ payload:
  - '+.codesoftchina.com'
  - '+.codesoftchina.com'
  - '+.coin-have.com'
- - '+.coin-hive-proxy-ybydcnjgkl.now.sh
+ - '+.coin-hive-proxy-ybydcnjgkl.now.sh'
  - '+.coin-hive.com'
  - '+.coinblind.com'
  - '+.coinerra.com'
@@ -2443,8 +2443,8 @@ payload:
  - '+.cooolyi.cn'
  - '+.cooolyi.com'
  - '+.coop.pop.baofeng.com'
- - '+.cootek-dialer-download.oss-cn-hangzhou.aliyun
- - '+.cootek-file.cdn.cootekservice.com
+ - '+.cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com'
+ - '+.cootek-file.cdn.cootekservice.com'
  - '+.cop.my'
  - '+.coreldrawchina.com'
  - '+.coreldrawchina.com'
@@ -3556,7 +3556,7 @@ payload:
  - '+.freedrive.cn'
  - '+.freedrive.cn'
  - '+.freexxxvideoclip.aebn.net'
- - '+.fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.
+ - '+.fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com'
  - '+.fs.uc.nearme.com.cn'
  - '+.fsjsp.com'
  - '+.fsr.lenovomm.com'
@@ -4297,7 +4297,7 @@ payload:
  - '+.impservice.dictapp.youdao.com'
  - '+.impservice.youdao.com'
  - '+.impservice2.youdao.com'
- - '+.impservicetest.dictapp.youdao.com
+ - '+.impservicetest.dictapp.youdao.com'
  - '+.imrworldwide.com'
  - '+.in.gyeet.com'
  - '+.in.jxhcyc.com'
@@ -6825,7 +6825,7 @@ payload:
  - '+.s9w.cc'
  - '+.sa909.com'
  - '+.sad.qeo.cn'
- - '+.safe-aisle.jointreport-switch.com
+ - '+.safe-aisle.jointreport-switch.com'
  - '+.safe.tsgpay.cn'
  - '+.saferwet.com'
  - '+.same.chinadaily.com.cn'
@@ -7507,7 +7507,7 @@ payload:
  - '+.tips.logger.baofeng.com'
  - '+.tiqcdn.com'
  - '+.titan.babytree.com'
- - '+.titan.guestworld.tripod.lycos.com
+ - '+.titan.guestworld.tripod.lycos.com'
  - '+.titan01.babytree.com'
  - '+.titi.qifajiang.cn'
  - '+.tjf.lyhuayun.com'
