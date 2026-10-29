@@ -1,4 +1,8 @@
 payload: 
+ - 'userlocations.googleapis.com'
+ - 'locationhistory-pa.googleapis.com'
+ - 'locationhistoryaggregates-pa.googleapis.com'
+ - 'locationhistoryplacedetails-pa.googleapis.com'
  - '+.gjfzpt.cn'
  - '+.szbdyd.com'
  - '+.bsccdn.net'
